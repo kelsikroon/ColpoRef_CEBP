@@ -2,7 +2,7 @@
 Code for analysis and results in paper "Colposcopy Referral and CIN3+ Risk of Human Papillomavirus Genotyping Strategies in Cervical Cancer Screening" (Kroon et al. 2024, CEBP)
 
 - `code/`: codes used in this analysis
-- `plots/`: plots used in this study
+- `plots/`: plots included in the manuscript
 - `results/`: output csv files
 - `manuscript/`: pre-peer reviewed version of the manuscript 
 
